@@ -3,13 +3,20 @@
     <channel>
         <title>rempay</title>
         <item>
-            <title>1.0.2</title>
-            <pubDate>Tue, 23 Jun 2026 19:23:27 +0200</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <title>1.1.0</title>
+            <description><![CDATA[
+                <h2>Novità nella versione 1.1.0</h2>
+                <ul>
+                    <li><b>Nuova sezione Pagamenti:</b> registra pagamenti una tantum (spot) con scadenza, importo, metodo, banca e documenti allegati.</li>
+                    <li><b>OCR e ricerca full-text:</b> i documenti allegati vengono indicizzati (testo riconosciuto in-app) e cercabili da una barra di ricerca globale tra pagamenti e documenti.</li>
+                    <li>Backup/restore esteso senza perdita di dati ai nuovi pagamenti.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 23 Jun 2026 22:55:35 +0200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/istefox/rempay-releases/releases/download/1.0.2/rempay-1.0.2.zip" length="5320963" type="application/octet-stream" sparkle:edSignature="MC87fRW6Yu/s9tzV0Bj7GqArDkzaA6xQtZ4jXn1Dn0UHggxYMlBBPjaATmJqilK5V9vk0uxsd7q6PhA3eebtBA=="/>
+            <enclosure url="https://github.com/istefox/rempay-releases/releases/download/1.1.0/rempay-1.1.0.zip" length="4624433" type="application/octet-stream" sparkle:edSignature="SClEQIkJdk0C/0kjYRR6PO9JsanCpHYAHQecbB8ri6+Lg/BDdf4GgGaMgmV3aNS55YMaIamad5l5jTI5KvRmBw=="/>
         </item>
     </channel>
 </rss>
