@@ -3,13 +3,13 @@
     <channel>
         <title>rempay</title>
         <item>
-            <title>1.1.5</title>
-            <description><![CDATA[<ul><li>Manutenzione: l'estrazione testo/OCR dei documenti ora gira fuori dal thread principale (interfaccia più reattiva durante l'indicizzazione) e risolti due avvisi di compilazione.</li></ul>]]></description>
-            <pubDate>Wed, 24 Jun 2026 11:32:10 +0200</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
+            <title>1.1.6</title>
+            <description><![CDATA[<ul><li>Impostazioni ridisegnate in stile macOS: barra laterale con pannelli (Promemoria, Ricorrenza, Pagamenti, Valuta, iCloud, Backup, Avanzate, Info) al posto dell'unica lista a scorrimento.</li></ul>]]></description>
+            <pubDate>Wed, 24 Jun 2026 13:14:04 +0200</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/istefox/rempay-releases/releases/download/1.1.5/rempay-1.1.5.zip" length="4699117" type="application/octet-stream" sparkle:edSignature="bRAgnrLvsD6Bn59jSA9MuTl1lS8IT2GNfuZjpiKdBHX8iJ1Gx5NW0ZxxTDVylP1s9BE1WXmCuP+Jr3v67SWpBw=="/>
+            <enclosure url="https://github.com/istefox/rempay-releases/releases/download/1.1.6/rempay-1.1.6.zip" length="4726209" type="application/octet-stream" sparkle:edSignature="12DA5GECrb3Ro6hT0/fuzJkZ6yEXAXXW+Bu1p16bdImieCIwETHs4DEYMRefBhMrPrPx0d/u8Sk8NUv3w4ZcAQ=="/>
         </item>
     </channel>
 </rss>
