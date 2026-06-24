@@ -3,13 +3,14 @@
     <channel>
         <title>rempay</title>
         <item>
-            <title>1.1.10</title>
-            <pubDate>Wed, 24 Jun 2026 21:28:06 +0200</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>1.1.10</sparkle:shortVersionString>
+            <title>1.1.11</title>
+            <pubDate>Wed, 24 Jun 2026 21:46:46 +0200</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.1.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/istefox/rempay-releases/releases/download/1.1.10/rempay-1.1.10.zip" length="4775128" type="application/octet-stream" sparkle:edSignature="4sQka5TomqPDmIfYhD1j505CqTPY9QnfL0Ufp/87sIQ2gZn2RgP8kPrEjo2kABq80CIcmNpYSZmLLSh7g81ODA=="/>
+            <enclosure url="https://github.com/istefox/rempay-releases/releases/download/1.1.11/rempay-1.1.11.zip" length="4773158" type="application/octet-stream" sparkle:edSignature="lQxwtu5w21HWzt+rNb+csZIGugRwsJe3nP4iiL6nPYzoCAcf1Ce2vEbHzK1PCt0TTYV02jDxli8MqGAG6qvOAA=="/>
         </item>
+        
         <item>
             <title>1.1.9</title>
             <pubDate>Wed, 24 Jun 2026 21:01:57 +0200</pubDate>
@@ -17,15 +18,6 @@
             <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/istefox/rempay-releases/releases/download/1.1.9/rempay-1.1.9.zip" length="4773330" type="application/octet-stream" sparkle:edSignature="UKy4x/pVU0bxtQhJ8Dy3i5Xm2bvTb8rzAOQl42SLD17HtvZOk18IlQGKEwcR7jMDAJwGNPHLIp1VQBN4KmYxBQ=="/>
-        </item>
-        <item>
-            <title>1.1.8</title>
-            <description><![CDATA[<ul><li>Modifica piano: si apre direttamente sui dettagli (niente step "Tipo"). I piani "rate acquisto" ora si modificano col form corretto e ricalcolano le rate non pagate al cambio di totale o numero rate.</li></ul>]]></description>
-            <pubDate>Wed, 24 Jun 2026 20:40:20 +0200</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>1.1.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/istefox/rempay-releases/releases/download/1.1.8/rempay-1.1.8.zip" length="4771563" type="application/octet-stream" sparkle:edSignature="Fit+ym+s/3UAMvFVK7ayUUL6zexbheAW22+a/4KDU09gcSsymz90ymSaFcpJOyDGOJTwwITevgXGl/Gvmp7kDg=="/>
         </item>
     </channel>
 </rss>
