@@ -3,13 +3,13 @@
     <channel>
         <title>rempay</title>
         <item>
-            <title>1.1.1</title>
-            <description><![CDATA[<ul><li>Rimozione automatica dei piani duplicati comparsi dopo la sincronizzazione iCloud, con controllo di coerenza (nessuna perdita di dati).</li></ul>]]></description>
-            <pubDate>Wed, 24 Jun 2026 10:07:46 +0200</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <title>1.1.2</title>
+            <description><![CDATA[<ul><li>Rimozione automatica delle categorie duplicate comparse dopo la sincronizzazione iCloud, con spostamento dei piani sulla categoria mantenuta (nessuna perdita di dati).</li></ul>]]></description>
+            <pubDate>Wed, 24 Jun 2026 10:23:53 +0200</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/istefox/rempay-releases/releases/download/1.1.1/rempay-1.1.1.zip" length="4678780" type="application/octet-stream" sparkle:edSignature="Fa7qpthqLWP2ZsbAMnVMNFI2rS8viN8OrDk5RHqAvJvq6Jxpmpw7nojZ5rEWfnPNmK5rV3WMIvRC6lGnKQLkCQ=="/>
+            <enclosure url="https://github.com/istefox/rempay-releases/releases/download/1.1.2/rempay-1.1.2.zip" length="4692921" type="application/octet-stream" sparkle:edSignature="TgJx1QFeZO68xQ2Dnsotkxe5v4pPK9Xlm3SH+dkUarbT6WVePnZMp/Z5leYjRXVZFezG8MWruWVrGHNc2wnWBQ=="/>
         </item>
     </channel>
 </rss>
