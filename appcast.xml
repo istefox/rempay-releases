@@ -3,6 +3,14 @@
     <channel>
         <title>rempay</title>
         <item>
+            <title>1.1.9</title>
+            <pubDate>Wed, 24 Jun 2026 21:01:57 +0200</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/istefox/rempay-releases/releases/download/1.1.9/rempay-1.1.9.zip" length="4773330" type="application/octet-stream" sparkle:edSignature="UKy4x/pVU0bxtQhJ8Dy3i5Xm2bvTb8rzAOQl42SLD17HtvZOk18IlQGKEwcR7jMDAJwGNPHLIp1VQBN4KmYxBQ=="/>
+        </item>
+        <item>
             <title>1.1.8</title>
             <description><![CDATA[<ul><li>Modifica piano: si apre direttamente sui dettagli (niente step "Tipo"). I piani "rate acquisto" ora si modificano col form corretto e ricalcolano le rate non pagate al cambio di totale o numero rate.</li></ul>]]></description>
             <pubDate>Wed, 24 Jun 2026 20:40:20 +0200</pubDate>
