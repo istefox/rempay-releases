@@ -3,13 +3,13 @@
     <channel>
         <title>rempay</title>
         <item>
-            <title>1.1.6</title>
-            <description><![CDATA[<ul><li>Impostazioni ridisegnate in stile macOS: barra laterale con pannelli (Promemoria, Ricorrenza, Pagamenti, Valuta, iCloud, Backup, Avanzate, Info) al posto dell'unica lista a scorrimento.</li></ul>]]></description>
-            <pubDate>Wed, 24 Jun 2026 13:14:04 +0200</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
+            <title>1.1.7</title>
+            <description><![CDATA[<ul><li>Nuovo "Piano rate acquisto": dividi il prezzo di un acquisto in N rate a interesse zero, con l'ultima rata che quadra il totale.</li></ul>]]></description>
+            <pubDate>Wed, 24 Jun 2026 18:53:34 +0200</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/istefox/rempay-releases/releases/download/1.1.6/rempay-1.1.6.zip" length="4726209" type="application/octet-stream" sparkle:edSignature="12DA5GECrb3Ro6hT0/fuzJkZ6yEXAXXW+Bu1p16bdImieCIwETHs4DEYMRefBhMrPrPx0d/u8Sk8NUv3w4ZcAQ=="/>
+            <enclosure url="https://github.com/istefox/rempay-releases/releases/download/1.1.7/rempay-1.1.7.zip" length="4771158" type="application/octet-stream" sparkle:edSignature="H1xbB9OB9PZ0oP8XetD9oartUKiirCWGv1n12QcUovxZG+x/hq9WLXNHEcoydFJTDShPrjgVwjzOvlLwq9YYAQ=="/>
         </item>
     </channel>
 </rss>
