@@ -3,13 +3,13 @@
     <channel>
         <title>rempay</title>
         <item>
-            <title>1.1.4</title>
-            <description><![CDATA[<ul><li>Barra scura con i nomi delle colonne ora presente su Dashboard, Pagamenti e Report (coerente con Piani).</li><li>Risolto un avviso di build di Xcode (Info.plist nel Copy Bundle Resources).</li></ul>]]></description>
-            <pubDate>Wed, 24 Jun 2026 11:15:56 +0200</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+            <title>1.1.5</title>
+            <description><![CDATA[<ul><li>Manutenzione: l'estrazione testo/OCR dei documenti ora gira fuori dal thread principale (interfaccia più reattiva durante l'indicizzazione) e risolti due avvisi di compilazione.</li></ul>]]></description>
+            <pubDate>Wed, 24 Jun 2026 11:32:10 +0200</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/istefox/rempay-releases/releases/download/1.1.4/rempay-1.1.4.zip" length="4698303" type="application/octet-stream" sparkle:edSignature="u7toif62j4OMiVpW5Mmvz2S1EBM2NLrNUIppUoP09ZlQn1g5yRjdA9fKSCawNF/QBxnQ/Em36ZUo28bQ45npDA=="/>
+            <enclosure url="https://github.com/istefox/rempay-releases/releases/download/1.1.5/rempay-1.1.5.zip" length="4699117" type="application/octet-stream" sparkle:edSignature="bRAgnrLvsD6Bn59jSA9MuTl1lS8IT2GNfuZjpiKdBHX8iJ1Gx5NW0ZxxTDVylP1s9BE1WXmCuP+Jr3v67SWpBw=="/>
         </item>
     </channel>
 </rss>
