@@ -3,6 +3,14 @@
     <channel>
         <title>rempay</title>
         <item>
+            <title>1.1.12</title>
+            <pubDate>Sat, 27 Jun 2026 23:38:09 +0200</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.1.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/istefox/rempay-releases/releases/download/1.1.12/rempay-1.1.12.zip" length="4831938" type="application/octet-stream" sparkle:edSignature="z6wtt+5aM+rwdpt4/TWJZjoBehFRGlUCgs92B4sZqvT3IXPh04X3qM07nRrWmb3FfEX5qtLjl4RcFNpmlWGRAg=="/>
+        </item>
+        <item>
             <title>1.1.11</title>
             <pubDate>Wed, 24 Jun 2026 21:46:46 +0200</pubDate>
             <sparkle:version>15</sparkle:version>
@@ -10,7 +18,6 @@
             <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/istefox/rempay-releases/releases/download/1.1.11/rempay-1.1.11.zip" length="4773158" type="application/octet-stream" sparkle:edSignature="lQxwtu5w21HWzt+rNb+csZIGugRwsJe3nP4iiL6nPYzoCAcf1Ce2vEbHzK1PCt0TTYV02jDxli8MqGAG6qvOAA=="/>
         </item>
-        
         <item>
             <title>1.1.9</title>
             <pubDate>Wed, 24 Jun 2026 21:01:57 +0200</pubDate>
